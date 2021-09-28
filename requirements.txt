@@ -1,0 +1,7 @@
+numpy>=1.14
+jupyter
+pandas
+matplotlib
+tqdm
+h5py
+progressbar2
